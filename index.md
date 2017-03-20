@@ -1,3 +1,5 @@
+<title>Beacon adventure - a test page for eddystone beacons</title>
+
 ## Welcome to the Beacon Adventure page
 
 This is checkpoint 1 for the Eddystone beacons. 
