@@ -1,15 +1,17 @@
 ## Welcome to the Beacon Adventure page
 
-This is a demo page for testing beacons. 
-
-[More text to come]
-
-### About beacons
+This is checkpoint 1 for the Eddystone beacons. 
 
 
-# What next? 
+### Gamifying beacons
 
+You can gamify beacons by creating checkpoints around a venue or other space for visitors to collect. These can include clues or secret passwords and other bits of information to help gamify your beacons. 
 
+Read more about gamification on the [Edutech wiki](http://edutechwiki.unige.ch/en/Gamification). 
+
+# Examples of beacon gamification 
+
+[Ghosts! A Location-Based Bluetooth LE Mobile Game for Museum Exploration’](https://arxiv.org/pdf/1607.05654.pdf) (pdf) 
 
 [Artefacto](www.artefacto.org.uk) 
 ```
