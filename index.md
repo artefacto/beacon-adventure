@@ -2,16 +2,19 @@
 
 This is checkpoint 1 for the Eddystone beacons. 
 
+This is some demo content to show you how you can access (and provide) contextual web content using the Physical Web. 
 
-### Gamifying beacons
+### Eddystone
 
-You can gamify beacons by creating checkpoints around a venue or other space for visitors to collect. These can include clues or secret passwords and other bits of information to help gamify your beacons. 
+Eddystone is an open Bluetooth Low Energy (BLE) standard developed by Google for BLE beacon broadcast. It’s open and multiplatform, so you can use it with both Android and iOS. 
 
-Read more about gamification on the [Edutech wiki](http://edutechwiki.unige.ch/en/Gamification). 
+It's also different from the iBeacon standard (developed by Apple) in that it can be accessed using compatible browsers (like Chrome and Opera) and mobile features (like Google Nearby) and doesn't require a dedicated app. 
 
-# Examples of beacon gamification 
+There are a lot of different beacons, some of which support both the iBeacon and Eddystone beacon protocol. Which is pretty neat. 
 
-[Ghosts! A Location-Based Bluetooth LE Mobile Game for Museum Exploration’](https://arxiv.org/pdf/1607.05654.pdf) (pdf) 
+# Find out more 
 
-[Artefacto](www.artefacto.org.uk) 
+[Brief Intro to Eddystone, Physical Web, and Google Nearby](https://www.endertechnology.com/blog/brief-intro-to-eddystone-physical-web-and-google-nearby) 
+
+[For developers (Estimote)](http://developer.estimote.com/eddystone/) 
 ```
